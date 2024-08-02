@@ -1,0 +1,19 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color:#1b74e4;
+}
+
+.logsign{
+    background-color: aqua;
+    color: black;
+
+
+}
+
+button{
+    background-color: black;
+    color: white;
+}
